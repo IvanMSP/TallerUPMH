@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BlogUPMH</string>
+    <string name="holamundo">UPMH</string>
+    <string name="settings">Configuraciones</string>
+    <string name="post">UPMH Post</string>
+</resources>

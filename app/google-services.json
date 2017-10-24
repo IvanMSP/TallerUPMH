@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "958711666238",
+    "firebase_url": "https://blogupmh.firebaseio.com",
+    "project_id": "blogupmh",
+    "storage_bucket": "blogupmh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958711666238:android:8796d40b0c5cb4b0",
+        "android_client_info": {
+          "package_name": "com.example.bawbam.blogupmh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958711666238-3n6uia38k19hjjej24qhiu3ojghgt7rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bawbam.blogupmh",
+            "certificate_hash": "166b10304867dad0af47ea2df5bbb05589985469"
+          }
+        },
+        {
+          "client_id": "958711666238-d46gjp2g8snk834qaes1e60088jmsctq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl0dd9WJiWPBZU_nsh8-0aLJ7XRZTFpbE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958711666238-d46gjp2g8snk834qaes1e60088jmsctq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
